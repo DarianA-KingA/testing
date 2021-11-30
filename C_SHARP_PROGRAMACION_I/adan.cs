@@ -4,7 +4,8 @@ using System.Text;
 
 namespace C_SHARP_PROGRAMACION_I
 {
-    class adan:cuerpo_humano
+    public class adan:cuerpo_humano
     {
+        
     }
 }

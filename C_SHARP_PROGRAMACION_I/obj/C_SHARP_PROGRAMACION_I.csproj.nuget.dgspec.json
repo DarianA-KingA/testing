@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darian\\Desktop\\PROGRAMAS\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I.csproj": {}
+    "C:\\Users\\Darian\\Documents\\GitHub\\testing\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darian\\Desktop\\PROGRAMAS\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I.csproj": {
+    "C:\\Users\\Darian\\Documents\\GitHub\\testing\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darian\\Desktop\\PROGRAMAS\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I.csproj",
+        "projectUniqueName": "C:\\Users\\Darian\\Documents\\GitHub\\testing\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I.csproj",
         "projectName": "C_SHARP_PROGRAMACION_I",
-        "projectPath": "C:\\Users\\Darian\\Desktop\\PROGRAMAS\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I.csproj",
+        "projectPath": "C:\\Users\\Darian\\Documents\\GitHub\\testing\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I.csproj",
         "packagesPath": "C:\\Users\\Darian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darian\\Desktop\\PROGRAMAS\\C_SHARP_PROGRAMACION_I\\C_SHARP_PROGRAMACION_I\\obj\\",
+        "outputPath": "C:\\Users\\Darian\\Documents\\GitHub\\testing\\C_SHARP_PROGRAMACION_I\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
